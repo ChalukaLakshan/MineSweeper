@@ -1,0 +1,3 @@
+﻿using MineSweeper;
+
+Game.Play();
